@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Mind Saver",
+    "action": {
+        "default_popup": "exten.html",
+        "default_icon": "icon.jpeg"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
